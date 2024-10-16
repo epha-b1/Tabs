@@ -62,7 +62,7 @@ const Profile = () => {
 
         {/* Channel Details */}
         <div className="ml-4 mt-4">
-          <h1 className="text-2xl font-bold">Ma Girl</h1>
+          <h1 className="text-2xl font-bold">Ma Page</h1>
           <p>1M views</p>
           <p className="mt-2">
             This is a short description of the YouTube channel. It gives an
