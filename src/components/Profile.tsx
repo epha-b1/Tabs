@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { FaCamera } from 'react-icons/fa';
+import Tabs from './Tabs';
 
 const Profile = () => {
   const [bannerUrl, setBannerUrl] = useState("https://placehold.co/1500x400");
@@ -72,6 +73,8 @@ const Profile = () => {
           </button>
         </div>
       </div>
+      <Tabs/>
+
     </div>
   )
 }
